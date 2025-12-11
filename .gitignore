@@ -5,6 +5,7 @@ build/
 dist/
 wheels/
 *.egg-info
-
-# Virtual environments
+database.ini
+pyproject.toml
 .venv
+.env
